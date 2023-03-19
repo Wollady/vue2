@@ -1,24 +1,6 @@
-# vue2
+# VueLatestTable Example
 
-## Project setup
-```
-npm install
-```
+Funktioniert
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Quelle: https://vuejsexamples.com/data-table-for-vue-latest-versions-all-time-currently-it-is-perfect-with-vue-3/
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
